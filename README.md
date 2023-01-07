@@ -1,1 +1,1 @@
-# devops-ecommerce-api-cicd
+# E-Commerce API the DevOps Way
